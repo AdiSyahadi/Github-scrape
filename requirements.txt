@@ -1,0 +1,6 @@
+requests
+pandas_profiling
+pandas
+streamlit
+streamlit_pandas_profiling
+beautifulsoup4
